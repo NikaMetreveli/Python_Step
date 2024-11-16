@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Iphone 16",
+        "Price": 4000,
+        "Quantity": 250
+    },
+    {
+        "Name": "Samsung Galaxy S24 Ultra",
+        "Price": 4500,
+        "Quantity": 150
+    },
+    {
+        "Name": "Pixel 8 Pro",
+        "Price": 3500,
+        "Quantity": 200
+    }
+]
